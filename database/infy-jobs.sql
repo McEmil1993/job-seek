@@ -48587,7 +48587,7 @@ CREATE TABLE `cms_services` (
 INSERT INTO `cms_services` (`id`, `key`, `value`, `created_at`, `updated_at`) VALUES
 (1, 'home_title', 'Join us & Explore Thousands of Jobs', '2024-04-09 23:48:50', '2024-04-09 23:48:50'),
 (2, 'home_description', 'Find Jobs, Employment & Career Opportunities', '2024-04-09 23:48:50', '2024-04-09 23:48:50'),
-(3, 'home_banner', 'front_web/images/hero-img.png', '2024-04-09 23:48:50', '2024-04-09 23:48:50'),
+(3, 'home_banner', 'front_web/images/back_images.png', '2024-04-09 23:48:50', '2024-04-09 23:48:50'),
 (4, 'about_title_one', 'Register', '2024-04-09 23:48:50', '2024-04-09 23:48:50'),
 (5, 'about_description_one', 'Start by creating an account on our awesome platform', '2024-04-09 23:48:50', '2024-04-09 23:48:50'),
 (6, 'about_image_one', 'front_web/images/register.png', '2024-04-09 23:48:50', '2024-04-09 23:48:50'),

@@ -15,7 +15,7 @@ class CmsServicesSeeder extends Seeder
         $input = [
             ['key' => 'home_title', 'value' => 'Join us & Explore Thousands of Jobs'],
             ['key' => 'home_description', 'value' => 'Find Jobs, Employment & Career Opportunities'],
-            ['key' => 'home_banner', 'value' => 'front_web/images/hero-img.png'],
+            ['key' => 'home_banner', 'value' => 'front_web/images/back_images.png'],
             ['key' => 'about_title_one', 'value' => 'Register'],
             ['key' => 'about_description_one', 'value' => 'Start by creating an account on our awesome platform'],
             ['key' => 'about_image_one', 'value' => 'front_web/images/register.png'],

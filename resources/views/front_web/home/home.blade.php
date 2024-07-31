@@ -89,7 +89,7 @@
                     </div>
                     @if ($settings->value == 0)
                         <div class="col-lg-4 text-lg-end text-center">
-                            <img src="{{ $cmsServices['home_banner'] ? asset($cmsServices['home_banner']) : asset('front_web/images/hero-img.png') }}"
+                            <img src="{{ $cmsServices['home_banner'] ? asset($cmsServices['home_banner']) : asset('front_web/images/back_images.png') }}"
                                 alt="jobs-landing" class="img-fluid" />
                         </div>
                     @endif
