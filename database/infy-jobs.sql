@@ -50262,7 +50262,7 @@ CREATE TABLE `settings` (
 --
 
 INSERT INTO `settings` (`id`, `key`, `value`, `created_at`, `updated_at`) VALUES
-(1, 'application_name', 'InfyOmLabs', '2024-04-09 23:48:45', '2024-04-09 23:48:45'),
+(1, 'application_name', 'GroundLink', '2024-04-09 23:48:45', '2024-04-09 23:48:45'),
 (2, 'logo', 'assets/img/logos.png', '2024-04-09 23:48:45', '2024-04-09 23:48:45'),
 (3, 'favicon', 'favicon.ico', '2024-04-09 23:48:45', '2024-04-09 23:48:45'),
 (4, 'company_description', 'Leading Laravel Development Company of India', '2024-04-09 23:48:45', '2024-04-09 23:48:45'),

@@ -15,7 +15,7 @@ class SettingsTableSeeder extends Seeder
         $imageUrl = 'assets/img/logos.png';
         $favicon = 'favicon.ico';
         $input = [
-            ['key' => 'application_name', 'value' => 'InfyOmLabs'],
+            ['key' => 'application_name', 'value' => 'GrounLink'],
             ['key' => 'logo', 'value' => $imageUrl],
             ['key' => 'favicon', 'value' => $favicon],
             ['key' => 'company_description', 'value' => 'Leading Laravel Development Company of India'],
