@@ -36,7 +36,7 @@
         {{--                </div>--}}
         {{--                <div class="w-auto pl-3 mt-1">--}}
         {{--                    <img id='logoPreview' class="img-thumbnail thumbnail-preview"--}}
-        {{--                         src="{{($setting['logo']) ? asset($setting['logo']) : asset('assets/img/infyom-logo.png')}}">--}}
+        {{--                         src="{{($setting['logo']) ? asset($setting['logo']) : asset('assets/img/logos.png')}}">--}}
         {{--                </div>--}}
         {{--            </div>--}}
         {{--        </div>--}}
@@ -55,7 +55,7 @@
                     <div class="d-block">
                         <div class="image-picker">
                             <div class="image previewImage" id="logoPreview"
-                                 style="background-image: url({{ !empty($setting['logo']) ? $setting['logo'] : asset('assets/img/infyom-logo.png') }})">
+                                 style="background-image: url({{ !empty($setting['logo']) ? $setting['logo'] : asset('assets/img/logos.png') }})">
                             </div>
                             <span class="picker-edit rounded-circle text-gray-500 fs-small" data-bs-toggle="tooltip"
                                   data-placement="top" data-bs-original-title="{{__('messages.tooltip.change_app_logo')}}">
@@ -80,7 +80,7 @@
                     <div class="d-block">
                         <div class="image-picker">
                             <div class="image previewImage" id="footerLogoPreview"
-                                 style="background-image: url({{ !empty($setting['footer_logo']) ? $setting['footer_logo'] : asset('assets/img/infyom-logo.png') }})">
+                                 style="background-image: url({{ !empty($setting['footer_logo']) ? $setting['footer_logo'] : asset('assets/img/logos.png') }})">
                             </div>
                             <span class="picker-edit rounded-circle text-gray-500 fs-small" data-bs-toggle="tooltip"
                                   data-placement="top" data-bs-original-title="{{__('messages.tooltip.change_app_logo')}}">
@@ -105,7 +105,7 @@
                     <div class="d-block">
                         <div class="image-picker">
                             <div class="image previewImage" id="faviconPreview"
-                                 style="background-image: url({{ !empty($setting['favicon']) ? $setting['favicon'] : asset('assets/img/infyom-logo.png') }})">
+                                 style="background-image: url({{ !empty($setting['favicon']) ? $setting['favicon'] : asset('assets/img/logos.png') }})">
                             </div>
                             <span class="picker-edit rounded-circle text-gray-500 fs-small" data-bs-toggle="tooltip"
                                   data-placement="top" data-bs-original-title="{{__('messages.tooltip.change_favicon')}}">
@@ -132,7 +132,7 @@
         {{--                </div>--}}
         {{--                <div class="w-auto pl-3 mt-1">--}}
         {{--                    <img id='footerLogoPreview' class="img-thumbnail thumbnail-preview"--}}
-        {{--                         src="{{($setting['footer_logo']) ? asset($setting['footer_logo']) : asset('assets/img/infyom-logo.png')}}">--}}
+        {{--                         src="{{($setting['footer_logo']) ? asset($setting['footer_logo']) : asset('assets/img/logos.png')}}">--}}
         {{--                </div>--}}
         {{--            </div>--}}
         {{--        </div>--}}
@@ -149,7 +149,7 @@
         {{--                </div>--}}
         {{--                <div class="w-auto pl-3 mt-1">--}}
         {{--                    <img id='faviconPreview' class="img-thumbnail thumbnail-preview mt-4 width-40px"--}}
-        {{--                         src="{{($setting['favicon']) ? asset($setting['favicon']) : asset('assets/img/infyom-logo.png')}}">--}}
+        {{--                         src="{{($setting['favicon']) ? asset($setting['favicon']) : asset('assets/img/logos.png')}}">--}}
         {{--                </div>--}}
         {{--            </div>--}}
         {{--        </div>--}}

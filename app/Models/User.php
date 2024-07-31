@@ -250,7 +250,7 @@ class User extends Authenticatable implements HasMedia
             return $media->getFullUrl();
         }
 
-        return asset('assets/img/infyom-logo.png');
+        return asset('assets/img/logos.png');
     }
 
     /**

@@ -18,7 +18,7 @@
             <div class="recent-post d-flex mb-40">
                 <div class="img">
                     <a href="{{ route('front.posts.details',$popularBlog->id) }}">
-                        <img src="{{ !empty($popularBlog->blog_image_url)?$popularBlog->blog_image_url:asset('assets/img/infyom-logo.png') }}" class="recent-post-img">
+                        <img src="{{ !empty($popularBlog->blog_image_url)?$popularBlog->blog_image_url:asset('assets/img/logos.png') }}" class="recent-post-img">
                     </a>
                 </div>
                 <div class="desc ms-4">

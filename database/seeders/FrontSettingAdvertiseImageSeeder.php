@@ -12,7 +12,7 @@ class FrontSettingAdvertiseImageSeeder extends Seeder
      */
     public function run(): void
     {
-        $imageUrl = 'assets/img/infyom-logo.png';
+        $imageUrl = 'assets/img/logos.png';
 
         FrontSetting::create(['key' => 'advertise_image', 'value' => $imageUrl]);
     }

@@ -41,7 +41,7 @@
                                         <div class="card d-flex flex-md-row">
                                             <div class="card-img-top position-relative blog-detail-img">
                                                 <div class="inner-image">
-                                                    <img src="{{ !empty($blog->blog_image_url) ? $blog->blog_image_url :asset('assets/img/infyom-logo.png')  }}"
+                                                    <img src="{{ !empty($blog->blog_image_url) ? $blog->blog_image_url :asset('assets/img/logos.png')  }}"
                                                          class="card-img-top rounded-0" alt="Blog Image">
                                                 </div>
                                                 <div class="overlay position-absolute">

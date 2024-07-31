@@ -303,7 +303,7 @@ if (! function_exists('getCompanyLogo')) {
             return $user->avatar;
         }
 
-        return asset('assets/img/infyom-logo.png');
+        return asset('assets/img/logos.png');
     }
 }
 

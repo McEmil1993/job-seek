@@ -12,7 +12,7 @@ class SettingsTableSeeder extends Seeder
      */
     public function run(): void
     {
-        $imageUrl = 'assets/img/infyom-logo.png';
+        $imageUrl = 'assets/img/logos.png';
         $favicon = 'favicon.ico';
         $input = [
             ['key' => 'application_name', 'value' => 'InfyOmLabs'],

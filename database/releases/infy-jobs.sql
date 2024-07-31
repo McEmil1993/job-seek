@@ -49063,7 +49063,7 @@ INSERT INTO `front_settings` (`id`, `key`, `value`, `created_at`, `updated_at`) 
 (7, 'featured_jobs_enable', '0', '2021-12-18 02:00:52', '2021-12-18 02:00:52'),
 (8, 'featured_companies_enable', '0', '2021-12-18 02:00:52', '2021-12-18 02:00:52'),
 (9, 'latest_jobs_enable', '0', '2021-12-18 02:00:52', '2021-12-18 02:00:52'),
-(10, 'advertise_image', 'assets/img/infyom-logo.png', '2021-12-18 02:00:52', '2021-12-18 02:00:52');
+(10, 'advertise_image', 'assets/img/logos.png', '2021-12-18 02:00:52', '2021-12-18 02:00:52');
 
 -- --------------------------------------------------------
 
@@ -50142,7 +50142,7 @@ CREATE TABLE `settings` (
 
 INSERT INTO `settings` (`id`, `key`, `value`, `created_at`, `updated_at`) VALUES
 (1, 'application_name', 'InfyOmLabs', '2021-12-18 02:00:52', '2021-12-18 02:00:52'),
-(2, 'logo', 'assets/img/infyom-logo.png', '2021-12-18 02:00:52', '2021-12-18 02:00:52'),
+(2, 'logo', 'assets/img/logos.png', '2021-12-18 02:00:52', '2021-12-18 02:00:52'),
 (3, 'favicon', 'favicon.ico', '2021-12-18 02:00:52', '2021-12-18 02:00:52'),
 (4, 'company_description', 'Leading Laravel Development Company of India', '2021-12-18 02:00:52', '2021-12-18 02:00:52'),
 (5, 'address', '446, Tulsi Arcade, Nr. Sudama Chowk, Mota Varachha, Surat - 394101, Gujarat, India', '2021-12-18 02:00:52', '2021-12-18 02:00:52'),
@@ -50161,7 +50161,7 @@ INSERT INTO `settings` (`id`, `key`, `value`, `created_at`, `updated_at`) VALUES
 (18, 'privacy_policy', 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.', '2021-12-18 02:00:52', '2021-12-18 02:00:52'),
 (19, 'terms_conditions', 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for lorem ipsum will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).', '2021-12-18 02:00:52', '2021-12-18 02:00:52'),
 (20, 'enable_google_recaptcha', '0', '2021-12-18 02:00:52', '2021-12-18 02:00:52'),
-(21, 'footer_logo', 'assets/img/infyom-logo.png', '2021-12-18 02:00:52', '2021-12-18 02:00:52');
+(21, 'footer_logo', 'assets/img/logos.png', '2021-12-18 02:00:52', '2021-12-18 02:00:52');
 
 -- --------------------------------------------------------
 

@@ -15,7 +15,7 @@
                         <div class="row align-items-lg-center mb-3">
                             <div class="col-lg-1 col-sm-2 col-3">
                                 <div class="company-profile-img mt-md-0 mt-3">
-                                    <img src="{{ !empty($companyDetail->company_url) ? $companyDetail->company_url : asset('assets/img/infyom-logo.png') }}"
+                                    <img src="{{ !empty($companyDetail->company_url) ? $companyDetail->company_url : asset('assets/img/logos.png') }}"
                                         alt="job_detail_logo">
                                 </div>
                             </div>

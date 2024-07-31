@@ -380,7 +380,7 @@
                                             <div class="d-flex justify-content-between align-items-end">
                                                 <div class="d-flex align-items-center me-2">
                                                     <div class="testimonial-profile me-3"> <img
-                                                            src="{{ isset($testimonial->customer_image_url) ? $testimonial->customer_image_url : asset('assets/img/infyom-logo.png') }}"
+                                                            src="{{ isset($testimonial->customer_image_url) ? $testimonial->customer_image_url : asset('assets/img/logos.png') }}"
                                                             class="w-100 h-100 object-fit-cover" alt="profile"> </div>
                                                     <div class="profile-desc">
                                                         <h6 class="fs-18 mb-1">

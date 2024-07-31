@@ -30,7 +30,7 @@
                         {{--                            </div>--}}
                         {{--                            <div class="col-6 w-auto pl-3 mt-1">--}}
                         {{--                                <img id='editPreviewImage' class="img-thumbnail thumbnail-preview"--}}
-                        {{--                                     src="{{ asset('assets/img/infyom-logo.png') }}">--}}
+                        {{--                                     src="{{ asset('assets/img/logos.png') }}">--}}
                         {{--                            </div>--}}
                         {{--                        </div>--}}
                         {{--                        <a href="#" target="_blank" id="imageSliderUrl"></a>--}}
@@ -48,7 +48,7 @@
                             <div class="d-block">
                                 <div class="image-picker">
                                     <div class="image previewImage" id="editPreviewImage"
-                                         style="background-image: url({{ asset('assets/img/infyom-logo.png') }})">
+                                         style="background-image: url({{ asset('assets/img/logos.png') }})">
                                     </div>
                                     <span class="picker-edit rounded-circle text-gray-500 fs-small"
                                           data-bs-toggle="tooltip"

@@ -54,7 +54,7 @@
     </div>
 </div>
 {{Form::hidden('employerProfileData',true,['id'=>'indexEmployerProfileData'])}}
-{{Form::hidden('default-image-url', asset('assets/img/infyom-logo.png'), ['id' => 'defaultImageUrl'])}}
+{{Form::hidden('default-image-url', asset('assets/img/logos.png'), ['id' => 'defaultImageUrl'])}}
 <script data-turbo-eval="false">
     var hostUrl = 'assets/';
     let getLoggedInUserLang = '{{getCurrentLanguageCode()}}';

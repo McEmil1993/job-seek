@@ -33,7 +33,7 @@
                         <div class="d-block">
                             <div class="image-picker">
                                 <div class="image previewImage" id="editPreviewImage"
-                                     style="background-image: url({{ asset('assets/img/infyom-logo.png') }})">
+                                     style="background-image: url({{ asset('assets/img/logos.png') }})">
                                 </div>
                                 <span class="picker-edit rounded-circle text-gray-500 fs-small" data-bs-toggle="tooltip"
                                       data-placement="top" data-bs-original-title="{{__('messages.tooltip.change_image')}}}">

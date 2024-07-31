@@ -52,7 +52,7 @@
     @include('image_sliders.edit_modal')
     @include('image_sliders.show_modal')
                 
-    {{Form::hidden('default_document_imageUrl',asset('assets/img/infyom-logo.png'),['id' => 'defaultDocumentImageUrl'])}}
+    {{Form::hidden('default_document_imageUrl',asset('assets/img/logos.png'),['id' => 'defaultDocumentImageUrl'])}}
     {{Form::hidden('view',__('messages.common.view'), ['id' => 'view'])}}
     {{Form::hidden('header-size-message',__('messages.image_slider.image_size_message'),['id' => 'imageSizeMessage'])}}
     {{Form::hidden('header-extension-message',__('messages.image_slider.image_extension_message'),['id' => 'imageExtensionMessage'])}}

@@ -14,7 +14,7 @@
         @include('testimonial.add_modal')
         @include('testimonial.edit_modal')
         @include('testimonial.show_modal')
-        {{ Form::hidden('defaultDocumentImageUrl',asset('assets/img/infyom-logo.png') , ['id' => 'defaultDocumentImageUrl']) }}
+        {{ Form::hidden('defaultDocumentImageUrl',asset('assets/img/logos.png') , ['id' => 'defaultDocumentImageUrl']) }}
     </div>
 @endsection
 @push('scripts')

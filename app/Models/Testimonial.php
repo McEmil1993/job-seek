@@ -79,6 +79,6 @@ class Testimonial extends Model implements HasMedia
             return $media->getFullUrl();
         }
 
-        return asset('assets/img/infyom-logo.png');
+        return asset('assets/img/logos.png');
     }
 }

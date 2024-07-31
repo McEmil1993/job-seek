@@ -15,7 +15,7 @@
     @include('branding_sliders.add_modal')
     @include('branding_sliders.edit_modal')
 
-    {{Form::hidden('default_document_imageUrl',asset('assets/img/infyom-logo.png'),['id' => 'defaultDocumentImageUrl'])}}
+    {{Form::hidden('default_document_imageUrl',asset('assets/img/logos.png'),['id' => 'defaultDocumentImageUrl'])}}
     {{Form::hidden('view',__('messages.common.view'), ['id' => 'view'])}}
     {{Form::hidden('branding-extension-message',__('messages.image_slider.image_extension_message'),['id' => 'brandingExtensionMessage'])}}
     

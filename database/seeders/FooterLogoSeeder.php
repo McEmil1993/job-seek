@@ -12,7 +12,7 @@ class FooterLogoSeeder extends Seeder
      */
     public function run(): void
     {
-        $imageUrl = 'assets/img/infyom-logo.png';
+        $imageUrl = 'assets/img/logos.png';
 
         Setting::create(['key' => 'footer_logo', 'value' => $imageUrl]);
     }

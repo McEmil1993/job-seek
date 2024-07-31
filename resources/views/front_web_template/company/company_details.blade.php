@@ -16,7 +16,7 @@
                         <div class="d-flex align-items-md-center">
                             <div class="me-4">
                                 <div class="hero-img">
-                                    <img src="{{ !empty($companyDetail->company_url) ? $companyDetail->company_url : asset('assets/img/infyom-logo.png') }}"
+                                    <img src="{{ !empty($companyDetail->company_url) ? $companyDetail->company_url : asset('assets/img/logos.png') }}"
                                         class="w-100 h-100 rounded-circle object-fit-cover" alt="company-details" />
                                 </div>
                             </div>

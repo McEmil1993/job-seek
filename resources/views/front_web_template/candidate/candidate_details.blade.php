@@ -15,7 +15,7 @@
                         <div class="col-lg-1 col-sm-2 col-3">
                             <div class="candidate-profile-img mt-md-0 mt-3">
                                 <img
-                                        src="{{ (!empty($candidateDetails->user->avatar)) ? $candidateDetails->user->avatar : asset('assets/img/infyom-logo.png') }}"
+                                        src="{{ (!empty($candidateDetails->user->avatar)) ? $candidateDetails->user->avatar : asset('assets/img/logos.png') }}"
                                         alt="candidate profile">
                             </div>
                         </div>
@@ -144,7 +144,7 @@
                     <div class="d-flex align-items-md-center">
                         <div class="me-4">
                             <div class="hero-img">
-                                <img src="{{ !empty($candidateDetails->user->avatar) ? $candidateDetails->user->avatar : asset('assets/img/infyom-logo.png') }}"
+                                <img src="{{ !empty($candidateDetails->user->avatar) ? $candidateDetails->user->avatar : asset('assets/img/logos.png') }}"
                                     class="w-100 h-100 rounded-circle object-fit-cover" alt="company-details" />
                             </div>
                         </div>
