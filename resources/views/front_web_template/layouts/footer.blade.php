@@ -101,7 +101,7 @@
                         <div class="me-3">
                             <img src="{{ asset('img_template/contact.svg') }}" class="w-100" />
                         </div>
-                        <a href="tel: +91 7096336561" class="text-decoration-none text-gray fs-13">
+                        <a href="tel: 09271534048" class="text-decoration-none text-gray fs-13">
                             {{ $settings['region_code'] . ' ' . $settings['phone'] }}
                         </a>
                     </div>
