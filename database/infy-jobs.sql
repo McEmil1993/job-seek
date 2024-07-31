@@ -50268,7 +50268,7 @@ INSERT INTO `settings` (`id`, `key`, `value`, `created_at`, `updated_at`) VALUES
 (4, 'company_description', 'At Ground-Link Advertising, we create stunning websites and use data-driven advertising to boost your online presence. Let's craft success together.', '2024-04-09 23:48:45', '2024-04-09 23:48:45'),
 (5, 'address', '14F IBM PLAZA Building  Eastwood Avenue Quezon Citya', '2024-04-09 23:48:45', '2024-04-09 23:48:45'),
 (6, 'phone', '70963 36561', '2024-04-09 23:48:45', '2024-04-09 23:48:49'),
-(7, 'email', 'contact@infyom.in', '2024-04-09 23:48:45', '2024-04-09 23:48:45'),
+(7, 'email', 'info@groundlinkadvertising.com', '2024-04-09 23:48:45', '2024-04-09 23:48:45'),
 (8, 'facebook_url', 'https://www.facebook.com/GroundLinkAdvertisingServices/', '2024-04-09 23:48:45', '2024-04-09 23:48:45'),
 (9, 'twitter_url', 'https://twitter.com/infyom?lang=en', '2024-04-09 23:48:45', '2024-04-09 23:48:45'),
 (10, 'google_plus_url', 'https://infyom.com/', '2024-04-09 23:48:46', '2024-04-09 23:48:46'),

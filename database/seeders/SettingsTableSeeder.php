@@ -21,7 +21,7 @@ class SettingsTableSeeder extends Seeder
             ['key' => 'company_description', 'value' => 'At Ground-Link Advertising, we create stunning websites and use data-driven advertising to boost your online presence. Let's craft success together.'],
             ['key' => 'address', 'value' => '14F IBM PLAZA Building  Eastwood Avenue Quezon Citya'],
             ['key' => 'phone', 'value' => '+639271534048'],
-            ['key' => 'email', 'value' => 'contact@infyom.in'],
+            ['key' => 'email', 'value' => 'info@groundlinkadvertising.com'],
             ['key' => 'facebook_url', 'value' => 'https://www.facebook.com/GroundLinkAdvertisingServices/'],
             ['key' => 'twitter_url', 'value' => 'https://twitter.com/infyom?lang=en'],
             ['key' => 'google_plus_url', 'value' => 'https://infyom.com/'],
