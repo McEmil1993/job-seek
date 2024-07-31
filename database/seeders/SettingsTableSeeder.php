@@ -13,7 +13,7 @@ class SettingsTableSeeder extends Seeder
     public function run(): void
     {
         $imageUrl = 'assets/img/logos.png';
-        $favicon = 'favicon.ico';
+        $favicon = 'favicon.png';
         $input = [
             ['key' => 'application_name', 'value' => 'GrounLink'],
             ['key' => 'logo', 'value' => $imageUrl],
@@ -22,7 +22,7 @@ class SettingsTableSeeder extends Seeder
             ['key' => 'address', 'value' => '14F IBM PLAZA Building  Eastwood Avenue Quezon Citya'],
             ['key' => 'phone', 'value' => '+91 70963 36561'],
             ['key' => 'email', 'value' => 'contact@infyom.in'],
-            ['key' => 'facebook_url', 'value' => 'https://www.facebook.com/infyom/'],
+            ['key' => 'facebook_url', 'value' => 'https://www.facebook.com/GroundLinkAdvertisingServices/'],
             ['key' => 'twitter_url', 'value' => 'https://twitter.com/infyom?lang=en'],
             ['key' => 'google_plus_url', 'value' => 'https://infyom.com/'],
             ['key' => 'linkedIn_url',

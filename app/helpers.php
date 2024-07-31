@@ -93,7 +93,7 @@ if (! function_exists('getSettingValue')) {
     {
         $settingValue = Setting::where('key', $key)->value('value');
 
-        if ($settingValue == 'favicon.ico') {
+        if ($settingValue == 'favicon.png') {
             return asset($settingValue);
         }
 
