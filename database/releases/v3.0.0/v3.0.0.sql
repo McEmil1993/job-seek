@@ -15,6 +15,6 @@ alter table `jobs_alerts` add constraint `jobs_alerts_job_type_id_foreign` forei
 alter table `users` add `region_code` varchar(191) null;
 
 insert into `settings` (`key`, `value`, `updated_at`, `created_at`) values ('region_code', '91', '2020-11-09 00:00:00', '2020-11-09 00:00:00')
-insert into `settings` (`key`, `value`, `updated_at`, `created_at`) values ('company_url', 'www.infyom.com', '2020-11-24 00:00:00', '2020-11-24 00:00:00')
+insert into `settings` (`key`, `value`, `updated_at`, `created_at`) values ('company_url', 'groundlinkadvertising.com', '2020-11-24 00:00:00', '2020-11-24 00:00:00')
 
 UPDATE `settings` SET `value`='70963 36561' where (`key` = 'phone') limit 1

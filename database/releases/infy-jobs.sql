@@ -50153,7 +50153,7 @@ INSERT INTO `settings` (`id`, `key`, `value`, `created_at`, `updated_at`) VALUES
 (10, 'google_plus_url', 'https://infyom.com/', '2021-12-18 02:00:52', '2021-12-18 02:00:52'),
 (11, 'linkedIn_url', 'https://www.linkedin.com/organization-guest/company/infyom-technologies?challengeId=AQFgQaMxwSxCdAAAAXOA_wosiB2vYdQEoITs6w676AzV8cu8OzhnWEBNUQ7LCG4vds5-A12UIQk1M4aWfKmn6iM58OFJbpoRiA&submissionId=0088318b-13b3-2416-9933-b463017e531e', '2021-12-18 02:00:52', '2021-12-18 02:00:52'),
 (12, 'about_us', 'Over past 10+ years of experience and skills in various technologies, we built great scalable products.\nWhatever technology we worked with, we just not build products for our clients but we also try to make it generate and available to other lots of developers worldwide. And that\'s the reason we are the only leading company in India who created tools and available it to millions of developers worldwide. Feel free to checkout our Github account. Because we believe that open-source is the future !! We have an open-source lab to which we call InfyOm Lab .', '2021-12-18 02:00:52', '2021-12-18 02:00:52'),
-(13, 'company_url', 'www.infyom.com', '2021-12-18 02:00:52', '2021-12-18 02:00:52'),
+(13, 'company_url', 'groundlinkadvertising.com', '2021-12-18 02:00:52', '2021-12-18 02:00:52'),
 (14, 'region_code', '91', '2021-12-18 02:00:52', '2021-12-18 02:00:52'),
 (15, 'slider_is_active', '1', '2021-12-18 02:00:52', '2021-12-18 02:00:52'),
 (16, 'is_full_slider', '0', '2021-12-18 02:00:52', '2021-12-18 02:00:52'),

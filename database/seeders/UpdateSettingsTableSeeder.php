@@ -12,6 +12,6 @@ class UpdateSettingsTableSeeder extends Seeder
      */
     public function run(): void
     {
-        Setting::create(['key' => 'company_url', 'value' => 'www.infyom.com']);
+        Setting::create(['key' => 'company_url', 'value' => 'groundlinkadvertising.com']);
     }
 }
