@@ -19,11 +19,11 @@
         }
 
         .text-blue-color {
-            color: #1967d2;
+            color: #ee1e59;
         }
 
         .table-class a {
-            background: #1967d2;
+            background: #ee1e59;
             color: #FFF;
             padding: 12px 30px;
             border-radius: 5px;
@@ -38,7 +38,7 @@
         }
 
         .table-class button {
-            background-color: #1967d2;
+            background-color: #ee1e59;
             border: none;
             color: white;
             padding: 15px 32px;
@@ -54,7 +54,7 @@
             padding: 0 !important;
             margin-top: -5px !important;
             min-width: unset !important;
-            color: #1967d2 !important;
+            color: #ee1e59 !important;
         }
     </style>
 </head>

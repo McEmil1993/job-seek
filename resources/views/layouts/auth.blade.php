@@ -42,14 +42,14 @@
         header .language-dropdown-menu .dropdown-item:active,
         header .language-dropdown-menu .dropdown-item:hover {
             background-color: rgba(0, 0, 0, 0) !important;
-            color: #1967d2 !important
+            color: #ee1e59 !important
         }
 
         header .language-dropdown-menu .dropdown-item .country-flag {
             width: 20px
         }
         .language-dropdown-btn{
-            background-color: #1967d2;
+            background-color: #ee1e59;
         }
         .dropdown-toggle:after{
             border: solid white;
