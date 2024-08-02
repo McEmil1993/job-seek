@@ -162,7 +162,7 @@ header .dropdown-menu .custom-input-control {
 }
 
 header .dropdown-menu .search-submit {
-    background-color: #1967d2;
+    background-color: #ee1e59;
     border: none;
     border-radius: 3px;
     color: #fff;
@@ -197,7 +197,7 @@ header .language-dropdown-menu .dropdown-item {
 header .language-dropdown-menu .dropdown-item:active,
 header .language-dropdown-menu .dropdown-item:hover {
     background-color: rgba(0, 0, 0, 0) !important;
-    color: #1967d2 !important
+    color: #ee1e59 !important
 }
 
 header .language-dropdown-menu .dropdown-item .country-flag {
@@ -290,7 +290,7 @@ footer .social-icon i {
 footer .social-icon i:hover,
 footer .social-icon i:focus {
     color: #fff;
-    background-color: #1967d2
+    background-color: #ee1e59
 }
 
 @media(max-width: 767px) {
